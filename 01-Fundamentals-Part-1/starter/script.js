@@ -72,9 +72,6 @@
 
 // LESSON 14 = BASIC OPERATORS LECTURE:-
 
-// An Operator Allows us to transform multiple values or combine
-// multiple values and do all kind of work with values
-
 // Mathemetical/Arethmatic Operators:-
 
 // const now = 2037
@@ -173,3 +170,59 @@
 //     century = 21;
 // }
 // console.log(century)
+
+
+
+// LESSON 20 = TYPE CONVERSION AND COERCION:-
+
+// // Type Conversion
+// const inputYear = `1991`
+// console.log(Number(inputYear), inputYear)
+// console.log(Number(inputYear) + 18)
+
+// console.log(Number(`Jonas`))
+
+// console.log(String(23), 23)
+
+// // Type Coercion
+// console.log(`I am ` + 23 + ' years old')// turns 23 into "23"(string)
+// console.log(`I am ` + `23` + ` years old`)// same as above
+
+// console.log(`23` - `10` - 3)// turns strings into numbers
+// console.log(`23` + `10` + 3)// turns numbers into strings
+// console.log(`23` * `2`)
+// console.log(`23` / `2`)
+// console.log(`23` > `18`)
+
+// let n = `1` + 1;
+// n = n - 1
+// console.log(n)
+
+
+
+// LESSON 21 = TRUTHY AND FALSY VALUES:-
+
+// // 5 Falsy values: 0, ``, undefined, null, NaN
+// console.log(Boolean(0))
+// console.log(Boolean(undefined))
+// console.log(Boolean(`Jonas`))
+// console.log(Boolean({}))
+// console.log(Boolean(``))
+
+// const money = 0;
+// if(money) {
+//     console.log(`Dont't Spend it all ;)`)
+// }else {
+//     console.log(`You should get a job!`)
+// }
+
+// let height = 0;
+// if (height) {
+//     console.log(`yay HE`)
+// } else {
+//     console.log(`no height 😥`)
+// }
+
+
+
+// LESSON 22 = EQUALITY OPERATORS:-
