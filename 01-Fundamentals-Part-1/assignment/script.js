@@ -99,4 +99,19 @@
 // console.log(`123` < 57) // false
 // console.log(5 + 6 + `4` + 9 - 4 - 2)// 117
 
-// LESSON 21 = TRUTHY AND FALSY VALUES:-
+// LESSON 22 = EQUALITY OPERATORS:-
+
+// let numNeighbours = Number(prompt(`how many neighbour does ur country ahve`))
+
+// if (numNeighbours == 1){
+//   console.log(`only 1? noob.`)
+// } else if (numNeighbours > 1) {
+//   console.log(`nice`)
+// } else {
+//   console.log(`bruh`)
+// }
+
+
+
+// LESSON 24 = LOGICAL OPERATORS:- Celestron AstroMaster 130 EQ Motor Drive Telescope (Grey)
+

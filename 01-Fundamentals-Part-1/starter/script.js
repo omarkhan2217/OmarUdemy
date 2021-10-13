@@ -226,4 +226,23 @@
 
 
 // LESSON 22 = EQUALITY OPERATORS:-
-// hello
+const age = 18
+if (age === 18) console.log(`you just became an adult (strict)`)
+if (age == 18) console.log(`you just became an adult (loose)`)
+
+const favorite = Number(prompt(`whats ur faviore number?`))
+
+console.log(favorite)
+console.log(typeof favorite)
+
+if (favorite === 23) {
+  console.log(`Cool 23 1!`)
+} else if (favorite === 7) {
+  console.log(`7 is aNOT ACOLL HAHA`)
+} else if (favorite === 9) {
+  console.log(`No`)
+} else console.log(`ur number aint coll noob`)
+
+if (favorite !== 23) {
+  console.log(`rar`)
+}
