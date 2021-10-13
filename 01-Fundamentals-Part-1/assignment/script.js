@@ -31,3 +31,62 @@
 
 
 // LESSON 14 = BASIC OPERATORS ASSIGNMENT:-
+
+// const country = "India";
+// const continent = "Asia";
+// const finlandPopulation = 6
+// const averageCountryPopulation = 33
+// let IndiaPopulation = 1300
+// const launguage = "Hindi"
+// // launguage = "English"
+// console.log(launguage)
+
+// IndiaPopulation /= 2
+// IndiaPopulation ++
+
+// console.log(IndiaPopulation)
+// console.log(IndiaPopulation > finlandPopulation)
+// console.log(IndiaPopulation > averageCountryPopulation)
+// console.log(country + " " + "is in" + " " + continent + " " + "and its" + " " + IndiaPopulation + " " + "Million people speak" + " " + launguage)
+
+
+
+// LESSON 17 = STRING AND TEMLEPATE LITERALS:-
+
+// const country = "India";
+// const continent = "Asia";
+// const finlandPopulation = 6
+// const averageCountryPopulation = 33
+// let IndiaPopulation = 1300
+// const launguage = "Hindi"
+// // launguage = "English"
+// console.log(launguage)
+
+// IndiaPopulation /= 2
+// IndiaPopulation ++
+
+// console.log(IndiaPopulation)
+// console.log(IndiaPopulation > finlandPopulation)
+// console.log(IndiaPopulation > averageCountryPopulation)
+// console.log(`${country} is in ${continent} and its ${IndiaPopulation} million people speak ${launguage}`)
+
+
+
+// LESSON 18 = IF/ELSE STATEMENTS:-
+
+// const country = "India";
+// const continent = "Asia";
+// const finlandPopulation = 6
+// const averageCountryPopulation = 33
+// let IndiaPopulation = 1300
+// const launguage = "Hindi"
+// console.log(launguage)
+
+
+// let isAboveAverage = IndiaPopulation > averageCountryPopulation
+
+// if (isAboveAverage) {
+//     console.log(`${country} is ${IndiaPopulation - averageCountryPopulation} Million Above Average`)
+// } else {
+//     console.log(`${country} is ${averageCountryPopulation - IndiaPopulation} Million Below Average`)
+// }
