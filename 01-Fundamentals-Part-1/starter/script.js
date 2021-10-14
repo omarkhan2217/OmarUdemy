@@ -226,23 +226,127 @@
 
 
 // LESSON 22 = EQUALITY OPERATORS:-
-const age = 18
-if (age === 18) console.log(`you just became an adult (strict)`)
-if (age == 18) console.log(`you just became an adult (loose)`)
+// const age = 18
+// if (age === 18) console.log(`you just became an adult (strict)`)
+// if (age == 18) console.log(`you just became an adult (loose)`)
 
-const favorite = Number(prompt(`whats ur faviore number?`))
+// const favorite = Number(prompt(`whats ur faviore number?`))
 
-console.log(favorite)
-console.log(typeof favorite)
+// console.log(favorite)
+// console.log(typeof favorite)
 
-if (favorite === 23) {
-  console.log(`Cool 23 1!`)
-} else if (favorite === 7) {
-  console.log(`7 is aNOT ACOLL HAHA`)
-} else if (favorite === 9) {
-  console.log(`No`)
-} else console.log(`ur number aint coll noob`)
+// if (favorite === 23) {
+//   console.log(`Cool 23 1!`)
+// } else if (favorite === 7) {
+//   console.log(`7 is aNOT ACOLL HAHA`)
+// } else if (favorite === 9) {
+//   console.log(`No`)
+// } else console.log(`ur number aint coll noob`)
 
-if (favorite !== 23) {
-  console.log(`rar`)
-}
+// if (favorite !== 23) {
+//   console.log(`rar`)
+// }
+
+
+
+// LESSON 24 LOGICAL OPERATORS:-
+
+// const hasDriversLicense = true // A
+// const hasGoodVision = true // B
+
+// console.log(hasDriversLicense && hasGoodVision)
+// console.log(hasDriversLicense || hasGoodVision)
+// console.log(!hasDriversLicense)
+
+// // if (hasDriversLicense && hasGoodVision) {
+// //     console.log(`Sarah is able to drive`)
+// // }else {
+// //     console.log(`Someone else should drive...`)
+// // }
+
+// const isTired = false // C
+// console.log(hasDriversLicense && hasGoodVision && isTired)
+
+// if (hasDriversLicense && hasGoodVision && !isTired) {
+//     console.log(`Sarah is able to drive`)
+// }else {
+//     console.log(`Someone else should drive...`)
+// }
+
+
+
+// LESSON 26 = THE SWITCH STATEMENT:-
+
+// const day = `monday`
+
+// switch(day) {
+//     case `monday`: // day === `monday`
+//         console.log(`Plan course structure`)
+//         console.log(`Go to coding meetup`)
+//         break
+//     case `tuesday`:
+//         console.log(`Prepare theory videos`)
+//         break;
+//     case `wednesday`:
+//     case `thursday`:
+//         console.log(`Write code examples`)
+//         break;
+//     case `friday`:
+//         console.log(`Record videos`)
+//         break;
+//     case `saturday`:
+//     case `sunday`:
+//         console.log(`Enjoy the weekend`)
+//         break;
+//     default:
+//         console.log(`not a valid day`)
+// }
+
+// if (day === `monday`) {
+//     console.log(`Plan course structure`)
+//     console.log(`Go to coding meetup`)
+// } else if (day === `tuesday`) {
+//     console.log(`Prepare theory videos`)
+// } else if (day === `wednesday` || day === `thursday`) {
+//     console.log(`Write code examples`)
+// } else if (day === `friday`) {
+//     console.log(`Record videos`)
+// } else if (day === `saturday` || day === `sunday`){
+//     console.log(`Enojy the weekend`)
+// } else {
+//     console.log(`not a valid day`)
+// }
+
+
+
+// LESSON 27 = STATEMETS AND EXPRESSIONS
+
+// if (23 > 10) {
+//     const str = `23 awheuahw`
+// }
+
+// console.log(`im a ${2300 - 1294} years old`)
+// cant have an statements in a tempelate literal
+
+
+
+// LESSON 28 = TERNARY OPERATORS:-
+
+// const age = 23;
+// age >= 18 ? console.log(`i like to drink wine ;)`) 
+// : console.log(`I WANNA DRINK WINE PLES`)
+
+// const drink = age >= 18 ? `wine` : `waater`
+
+// console.log(drink)
+
+// let drink2 
+// if (age >= 18) {
+//     drink2 = `wine`
+// } else{
+//     drink2 = `waater`
+// }
+
+// console.log(drink2)
+
+// console.log(`i like to drink ${age >= 18 ? `wine` : `waater`}`)

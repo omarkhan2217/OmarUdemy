@@ -115,3 +115,49 @@
 
 // LESSON 24 = LOGICAL OPERATORS:- Celestron AstroMaster 130 EQ Motor Drive Telescope (Grey)
 
+// const country = "India";
+// const continent = "Asia";
+// let IndiaPopulation = 1300
+// const launguage = "Hindi"
+// const isAnIsland = false
+
+// if (launguage === "English" && IndiaPopulation <= 50 && !isAnIsland) {
+//     console.log(`Sarah loves this country`)
+// } else {
+//     console.log(`Sarah should stay in another country`)
+// }
+
+
+
+// LESSON 26 = THE SWITCH STATEMNT:-
+
+// const launguage = "hindi"
+
+// switch (launguage) {
+//     case `chinese`:
+//     case `mandarin`:
+//         console.log(`MOST number of native speakers`)
+//         break
+//     case `spanish`:
+//         console.log(`2nd place in total native speakers`)
+//         break
+//     case `english`:
+//         console.log(`3rd place in total native speakers`)
+//         break
+//     case `hindi`:
+//         console.log(`4th place in total native speakers`)
+//         break
+//     case `arabic`:
+//         console.log(`5th place in total native speakers`)
+//         break
+// }
+
+
+
+// LESSON 28 = TERNARY OPERATOR:-
+
+// const country = "India"
+// let IndiaPopulation = 1300
+// const averageCountryPopulation = 33
+
+// console.log(`${country}'s population is ${IndiaPopulation > averageCountryPopulation ? `Above` : `Below`} Average`)
