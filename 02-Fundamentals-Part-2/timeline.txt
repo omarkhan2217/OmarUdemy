@@ -1,0 +1,49 @@
+15/10/21 = section 3 and 4 complete
+
+16/10/21 = section 5 and 6 complete
+
+17/10/21 = section 7 Project #3
+
+18/10/21 = section 7 complete section 8 Variable Enviorment
+
+19/10/21 = section 8 complete section 9 destructuring arrays
+
+20/10/21 = section 9 optional chaining
+
+21/10/21 = section 9 complete
+
+22/10/21 = section 10 complete
+
+23/10/21 = section 11 the find method
+
+24/10/21 = section 11 complete
+
+25/10/21 = section 12  internationalizing dates
+
+26/10/21 = section 12 complete section 13 selecting creating and deleting elements
+
+27/10/21 = section 13 building a tabbed component
+
+28/10/21 = section 13 complete section 14 OOP in java script
+
+29/10/21 = section 14 another class example
+
+30/10/21 = section 14 complete section 15 project architecture
+
+31/10/21 = section 15 complete section 16 welcome to callback hell
+
+1/11/21 = section 16 complete
+
+2/11/21 = section 17 intro to NPM
+
+3/11/21 = section 17 complete section 18 loading a recipe from api
+
+4/11/21 = section 18 implementing pagination part 1
+
+5/11/21 = section 18 project planning III
+
+6/11/12 = section 18 complete
+
+7/11/12 = course complete
+
+3 to 4 days extra aka 8 or 12 hrs extra
