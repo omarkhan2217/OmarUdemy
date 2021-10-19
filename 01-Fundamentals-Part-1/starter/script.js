@@ -27,8 +27,6 @@
 
 // console.log(myFirstJob);
 
-
-
 // LESSON 12 = DATA TYPES LECTURE:-
 
 // let javascriptIsFun = true;
@@ -51,8 +49,6 @@
 
 // console.log(typeof null);
 
-
-
 // LESSON 13 = LET, CONST AND VAR LECTURE:-
 
 // let age = 30;
@@ -68,8 +64,6 @@
 // lastName = "no"
 // console.log(lastName);
 
-
-
 // LESSON 14 = BASIC OPERATORS LECTURE:-
 
 // Mathemetical/Arethmatic Operators:-
@@ -79,7 +73,7 @@
 // const ageSarah = now - 2018
 // console.log(ageJonas, ageSarah) // add "," in console.log to add multiple values
 
-// console.log(ageJonas * 2, ageJonas / 10, 2 ** 3) 
+// console.log(ageJonas * 2, ageJonas / 10, 2 ** 3)
 // // 2 ** 3 = 2 to the power 3 = 2 x 2 x 2
 // const firstName = "Omar"
 // const lastName = "Khan"
@@ -90,11 +84,11 @@
 // let x = 10 + 5 // x = 15
 // x += 10 // x = x + 10 = x = 25 we are reassiging "x" variable
 // x *= 4 // x = x * 4 = 100
-// x /= 2 // x = x / 2 = 7.5  
+// x /= 2 // x = x / 2 = 7.5
 // x++; // x = x + 1
 // x-- // x = x - 1
 // x--
-// console.log(x) 
+// console.log(x)
 
 // // Comparison Operators:-
 
@@ -102,8 +96,6 @@
 // console.log(ageSarah >= 18)
 // const isFullAge = ageSarah >= 18
 // console.log(now - 1991 > now - 2018)
-
-
 
 // LESSON 15 = OPERATOR PRECENDENCE:-
 
@@ -122,8 +114,6 @@
 // const averageAge = (ageJonas + ageSarah) / 2// add "()" to exectue any code first
 // console.log(averageAge)
 
-
-
 // LESSON 17 = STRINGS AND TEMLEPATE LITERALS:-
 
 // const firstName = 'Omar'
@@ -136,19 +126,16 @@
 //  + " year old " + job
 // console.log(omar)
 
-
 // // Using Tempelate Literals (Easy to write)
-// const omarNew = `I'm ${firstName}, a ${year - birthYear} 
+// const omarNew = `I'm ${firstName}, a ${year - birthYear}
 // year old ${job}`
 // console.log(omarNew)
 
 // console.log(`Just a regular string...`)
 
-// console.log(`String with 
+// console.log(`String with
 // multiple
 // lines`)
-
-
 
 // LESSON 18 = IF/ELSE STATEMENTS:-
 
@@ -170,8 +157,6 @@
 //     century = 21;
 // }
 // console.log(century)
-
-
 
 // LESSON 20 = TYPE CONVERSION AND COERCION:-
 
@@ -198,8 +183,6 @@
 // n = n - 1
 // console.log(n)
 
-
-
 // LESSON 21 = TRUTHY AND FALSY VALUES:-
 
 // // 5 Falsy values: 0, ``, undefined, null, NaN
@@ -223,8 +206,6 @@
 //     console.log(`no height 😥`)
 // }
 
-
-
 // LESSON 22 = EQUALITY OPERATORS:-
 // const age = 18
 // if (age === 18) console.log(`you just became an adult (strict)`)
@@ -246,8 +227,6 @@
 // if (favorite !== 23) {
 //   console.log(`rar`)
 // }
-
-
 
 // LESSON 24 LOGICAL OPERATORS:-
 
@@ -272,8 +251,6 @@
 // }else {
 //     console.log(`Someone else should drive...`)
 // }
-
-
 
 // LESSON 26 = THE SWITCH STATEMENT:-
 
@@ -317,8 +294,6 @@
 //     console.log(`not a valid day`)
 // }
 
-
-
 // LESSON 27 = STATEMETS AND EXPRESSIONS
 
 // if (23 > 10) {
@@ -328,19 +303,17 @@
 // console.log(`im a ${2300 - 1294} years old`)
 // cant have an statements in a tempelate literal
 
-
-
 // LESSON 28 = TERNARY OPERATORS:-
 
 // const age = 23;
-// age >= 18 ? console.log(`i like to drink wine ;)`) 
+// age >= 18 ? console.log(`i like to drink wine ;)`)
 // : console.log(`I WANNA DRINK WINE PLES`)
 
 // const drink = age >= 18 ? `wine` : `waater`
 
 // console.log(drink)
 
-// let drink2 
+// let drink2
 // if (age >= 18) {
 //     drink2 = `wine`
 // } else{
